@@ -1,5 +1,5 @@
 # question-and-answer
-김두민의 개발자 백문백답 
+백문백답
 
 ### 목차
 
