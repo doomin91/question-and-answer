@@ -1,5 +1,5 @@
 # question-and-answer
-주제별로 개발자로서의 개인적인 견해를 정리해둔 Repository
+김두민의 개발자 백문백답 
 
 ### 목차
 
