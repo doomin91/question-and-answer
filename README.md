@@ -9,6 +9,8 @@
 - [x] 5. express의 json()과 urlencoded() 용도
 - [x] 6. NestJS 기본 구조의 이해
 - [x] 7. utf8과 unicode
+- [ ] 8. json과 jsonb (feat PostgreSQL)
+- [ ] 9. json과 multiple row 저장 방식
 
 ### 참조
 
